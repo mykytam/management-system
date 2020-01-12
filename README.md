@@ -1,6 +1,6 @@
 # Management System
 
-School Management System written with Java, the project consists of use GUI and SQLite for user-friendly interface and more efficiency.
+School Management System written with Java, uses SQLite database and has graphical user interface.
 
 **Features of the project are:**
 - Logging into database
